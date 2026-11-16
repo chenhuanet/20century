@@ -2,7 +2,7 @@
  "century": "20century",
  "collection": "photos",
  "base_url": "https://20century.chenhua.net",
- "count": 994,
+ "count": 1001,
  "images": [
   {
    "id": "auto-514faacd",
@@ -12929,6 +12929,24 @@
    "height": 1275
   },
   {
+   "id": "auto-06c36db3",
+   "title": "Early construction of the Golden Gate Bridge over Fort Point",
+   "year": 1933,
+   "date_label": "1933",
+   "collection": "photos",
+   "content_type": "photograph",
+   "decade": "1930s",
+   "path": "photos/1930s/auto-06c36db3-18a5138f.jpg",
+   "url": "https://20century.chenhua.net/photos/1930s/auto-06c36db3-18a5138f.jpg",
+   "preview_url": "/next/images/20century/photos/1930s/auto-06c36db3-18a5138f.jpg",
+   "detail_collection": "photos",
+   "detail_slug": "auto-06c36db3",
+   "sha256": "11f586507ff1918ad25abb8b2e6c0efb408dcee4a57b103d848b08149258d3fa",
+   "bytes": 132651,
+   "width": 1024,
+   "height": 813
+  },
+  {
    "id": "auto-f0880fcd",
    "title": "School for Aboriginal Children in Nanō",
    "year": 1933,
@@ -12983,6 +13001,24 @@
    "height": 588
   },
   {
+   "id": "auto-9da87c55",
+   "title": "Construction of the Golden Gate Bridge 3c22793u",
+   "year": 1935,
+   "date_label": "1935",
+   "collection": "photos",
+   "content_type": "photograph",
+   "decade": "1930s",
+   "path": "photos/1930s/auto-9da87c55-6a739b12.jpg",
+   "url": "https://20century.chenhua.net/photos/1930s/auto-9da87c55-6a739b12.jpg",
+   "preview_url": "/next/images/20century/photos/1930s/auto-9da87c55-6a739b12.jpg",
+   "detail_collection": "photos",
+   "detail_slug": "auto-9da87c55",
+   "sha256": "e5f1c969aa785155bb12f7761351e9b56654920d63d5761f674435b69ee6da58",
+   "bytes": 386107,
+   "width": 1600,
+   "height": 1279
+  },
+  {
    "id": "auto-72271429",
    "title": "Dust-storm-Texas-1935 (cropped)",
    "year": 1935,
@@ -12999,6 +13035,24 @@
    "bytes": 730009,
    "width": 960,
    "height": 686
+  },
+  {
+   "id": "auto-b6b6526d",
+   "title": "Fort Point, the Golden Gate bridge construction, and Crissy Field",
+   "year": 1935,
+   "date_label": "1935",
+   "collection": "photos",
+   "content_type": "photograph",
+   "decade": "1930s",
+   "path": "photos/1930s/auto-b6b6526d-38fbbb24.jpg",
+   "url": "https://20century.chenhua.net/photos/1930s/auto-b6b6526d-38fbbb24.jpg",
+   "preview_url": "/next/images/20century/photos/1930s/auto-b6b6526d-38fbbb24.jpg",
+   "detail_collection": "photos",
+   "detail_slug": "auto-b6b6526d",
+   "sha256": "65da333fd43d4c4d943a4e963a15a583fdcdeddbb58cf3ae48c7768e44f6ce8b",
+   "bytes": 113001,
+   "width": 1024,
+   "height": 836
   },
   {
    "id": "auto-a217a815",
@@ -13163,6 +13217,24 @@
    "height": 938
   },
   {
+   "id": "auto-48d4bc0c",
+   "title": "Golden Gate Bridge under construction 3c00678u",
+   "year": 1936,
+   "date_label": "1936",
+   "collection": "photos",
+   "content_type": "photograph",
+   "decade": "1930s",
+   "path": "photos/1930s/auto-48d4bc0c-79350aee.jpg",
+   "url": "https://20century.chenhua.net/photos/1930s/auto-48d4bc0c-79350aee.jpg",
+   "preview_url": "/next/images/20century/photos/1930s/auto-48d4bc0c-79350aee.jpg",
+   "detail_collection": "photos",
+   "detail_slug": "auto-48d4bc0c",
+   "sha256": "55e459a79d17e7d6dddbd55c086f95e26b370e4269d74b5c36355c32e07f59f4",
+   "bytes": 407974,
+   "width": 1281,
+   "height": 1600
+  },
+  {
    "id": "auto-13ff8082",
    "title": "Heavy black clouds of dust rising over",
    "year": 1936,
@@ -13251,6 +13323,24 @@
    "bytes": 167307,
    "width": 960,
    "height": 809
+  },
+  {
+   "id": "auto-d1332868",
+   "title": "Photograph of Golden Gate Bridge construction",
+   "year": 1936,
+   "date_label": "1936",
+   "collection": "photos",
+   "content_type": "photograph",
+   "decade": "1930s",
+   "path": "photos/1930s/auto-d1332868-ea669d28.jpg",
+   "url": "https://20century.chenhua.net/photos/1930s/auto-d1332868-ea669d28.jpg",
+   "preview_url": "/next/images/20century/photos/1930s/auto-d1332868-ea669d28.jpg",
+   "detail_collection": "photos",
+   "detail_slug": "auto-d1332868",
+   "sha256": "a03167327114fe78f29e413154fe1b041032d75bbaac237052e796a16332ef53",
+   "bytes": 92174,
+   "width": 1040,
+   "height": 662
   },
   {
    "id": "auto-c61b848f",
@@ -13557,6 +13647,42 @@
    "bytes": 232079,
    "width": 960,
    "height": 718
+  },
+  {
+   "id": "auto-55483899",
+   "title": "Invitation to Golden Gate Bridge opening, 1937",
+   "year": 1937,
+   "date_label": "1937-05",
+   "collection": "photos",
+   "content_type": "photograph",
+   "decade": "1930s",
+   "path": "photos/1930s/auto-55483899-217d9959.jpg",
+   "url": "https://20century.chenhua.net/photos/1930s/auto-55483899-217d9959.jpg",
+   "preview_url": "/next/images/20century/photos/1930s/auto-55483899-217d9959.jpg",
+   "detail_collection": "photos",
+   "detail_slug": "auto-55483899",
+   "sha256": "b010a270f696036dcdeec6d40b176960ef8924f2016f614cbde9bb2373f0760b",
+   "bytes": 312950,
+   "width": 1149,
+   "height": 1600
+  },
+  {
+   "id": "auto-b060d10c",
+   "title": "PBY-1 Catalinas of VP-9 over the Golden Gate Bridge in May 1937",
+   "year": 1937,
+   "date_label": "1937-05",
+   "collection": "photos",
+   "content_type": "photograph",
+   "decade": "1930s",
+   "path": "photos/1930s/auto-b060d10c-a0419630.jpg",
+   "url": "https://20century.chenhua.net/photos/1930s/auto-b060d10c-a0419630.jpg",
+   "preview_url": "/next/images/20century/photos/1930s/auto-b060d10c-a0419630.jpg",
+   "detail_collection": "photos",
+   "detail_slug": "auto-b060d10c",
+   "sha256": "ca36533090d9c990bbbeb3dff8f578ae9c3250095b72c256ddf61e2e021cb926",
+   "bytes": 222228,
+   "width": 1600,
+   "height": 1182
   },
   {
    "id": "auto-d720c6f9",
