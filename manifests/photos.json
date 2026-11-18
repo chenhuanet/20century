@@ -2,7 +2,7 @@
  "century": "20century",
  "collection": "photos",
  "base_url": "https://20century.chenhua.net",
- "count": 1011,
+ "count": 1010,
  "images": [
   {
    "id": "auto-514faacd",
@@ -17553,24 +17553,6 @@
    "bytes": 90124,
    "width": 1600,
    "height": 1600
-  },
-  {
-   "id": "auto-1925e020",
-   "title": "Challenger explosion",
-   "year": 1986,
-   "date_label": "1986",
-   "collection": "photos",
-   "content_type": "photograph",
-   "decade": "1980s",
-   "path": "photos/1980s/auto-1925e020-38604cb5.jpg",
-   "url": "https://20century.chenhua.net/photos/1980s/auto-1925e020-38604cb5.jpg",
-   "preview_url": "/next/images/20century/photos/1980s/auto-1925e020-38604cb5.jpg",
-   "detail_collection": "photos",
-   "detail_slug": "auto-1925e020",
-   "sha256": "27aed34dabb827fb7db7851137f81ae65f2a9670cd08645c6da949eb2c8454d5",
-   "bytes": 125219,
-   "width": 960,
-   "height": 777
   },
   {
    "id": "auto-097ceddb",
