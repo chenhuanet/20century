@@ -2,7 +2,7 @@
  "century": "20century",
  "collection": "paintings",
  "base_url": "https://20century.chenhua.net",
- "count": 21,
+ "count": 24,
  "images": [
   {
    "id": "auto-9fd3fc18",
@@ -381,6 +381,60 @@
    "bytes": 421619,
    "width": 1326,
    "height": 1600
+  },
+  {
+   "id": "kirchner-wrestlers-circus-1909",
+   "title": "《马戏团里的摔跤手》",
+   "year": 1909,
+   "date_label": "1909",
+   "collection": "paintings",
+   "content_type": "painting",
+   "decade": "1900s",
+   "path": "paintings/1900s/kirchner-wrestlers-circus-1909-7f1d5aac.jpg",
+   "url": "https://20century.chenhua.net/paintings/1900s/kirchner-wrestlers-circus-1909-7f1d5aac.jpg",
+   "preview_url": "/next/images/20century/paintings/1900s/kirchner-wrestlers-circus-1909-7f1d5aac.jpg",
+   "detail_collection": "paintings",
+   "detail_slug": "kirchner-wrestlers-circus-1909",
+   "sha256": "6e7504695ebd15f78bd0e21771ec04c521fe997284d1c6933bf148a0b32d5cb2",
+   "bytes": 426312,
+   "width": 1600,
+   "height": 1366
+  },
+  {
+   "id": "schiele-portrait-child-1916",
+   "title": "《儿童肖像（安东·佩施卡之子）》",
+   "year": 1916,
+   "date_label": "1916",
+   "collection": "paintings",
+   "content_type": "drawing",
+   "decade": "1910s",
+   "path": "paintings/1910s/schiele-portrait-child-1916-130fc5a1.jpg",
+   "url": "https://20century.chenhua.net/paintings/1910s/schiele-portrait-child-1916-130fc5a1.jpg",
+   "preview_url": "/next/images/20century/paintings/1910s/schiele-portrait-child-1916-130fc5a1.jpg",
+   "detail_collection": "paintings",
+   "detail_slug": "schiele-portrait-child-1916",
+   "sha256": "34beb96ffd18c0299aca14b48c984330fbba8df279e6d5d202b9a286cdf4cdfe",
+   "bytes": 235183,
+   "width": 1042,
+   "height": 1600
+  },
+  {
+   "id": "kirchner-mountain-landscape-1918",
+   "title": "《冷杉山景》",
+   "year": 1918,
+   "date_label": "1918/19",
+   "collection": "paintings",
+   "content_type": "drawing",
+   "decade": "1910s",
+   "path": "paintings/1910s/kirchner-mountain-landscape-1918-f4580aae.jpg",
+   "url": "https://20century.chenhua.net/paintings/1910s/kirchner-mountain-landscape-1918-f4580aae.jpg",
+   "preview_url": "/next/images/20century/paintings/1910s/kirchner-mountain-landscape-1918-f4580aae.jpg",
+   "detail_collection": "paintings",
+   "detail_slug": "kirchner-mountain-landscape-1918",
+   "sha256": "452822545bd6bc91feecabe6a34b9cd249eb9cda1090b74bf39ef6198c24fae2",
+   "bytes": 337510,
+   "width": 1600,
+   "height": 1092
   }
  ]
 }
